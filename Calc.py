@@ -15,5 +15,6 @@ calc = Calc()
 calc.first = 9
 calc.second = 6
 sum = calc.add()
+
 # print("sum = {}".format(sum))
 print("Sum of the two numbers {} and {} is {}".format(calc.first, calc.second, sum))
